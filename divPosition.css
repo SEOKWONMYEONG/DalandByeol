@@ -1,0 +1,8 @@
+#divPosition{
+
+    position: absolute;
+    left: 50%;
+    margin: 0 0 0 -50px;
+    alignment: center;
+}
+#imgPosition{left:50%;	margin-left:-100px;}
